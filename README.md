@@ -10,4 +10,4 @@ Note: in order to run this project sucessfully, please following below step by s
 Step 1: npm install i
 Step 2: yarn install
 Step 3: yarn add recharts
-Step 4: yarn start.
+Step 4: yarn start
