@@ -6,4 +6,4 @@ While I was doing this project, I found that graphQL is a very powerful tool for
 
 I am excited about the possibility of joining your company as a UI developer. I look forward to hearing from you about our potential next step. If there is anything information you need, please contact me at any time.
 
-Note: in order to run this project sucessfully, please following below step by step! Step 1: npm install i; Step 2: yarn install; Step 3: yarn add recharts; Step 4: yarn start.
+Note: in order to run this project successfully, please following below step by step! Step 1: npm install i; Step 2: yarn install; Step 3: yarn add recharts; Step 4: yarn start.
